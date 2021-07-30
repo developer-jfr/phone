@@ -1,0 +1,23 @@
+*
+{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.error
+{
+  color: red;
+  padding-left: 60px;
+  border: none;
+  background: none;
+  transform: scale(1.5);
+ 
+}
+.maskInput
+{
+  padding-left: 60px;
+  border: none;
+  background: none;
+  transform: scale(1.5);
+ 
+}
